@@ -34,8 +34,7 @@ I have created several websites that are still working. In addition to creating,
 ## Education 
 * Institute of business and management of technology of Belarusian state University (specialty "Web-design and computer graphics")
 * RssSchool (Js, 2020)
-* GeekBrains (JavaScript JavaScript, HTML, PHP, English)
-* Обтекаемость (тест)
+* GeekBrains (JavaScript JavaScript, HTML, PHP, English)* 
 * Codecademy (JS, React, Angular)
 * HTMLAcademy (html, css)
 * Codewars (JS)
@@ -44,4 +43,3 @@ I have created several websites that are still working. In addition to creating,
 I regularly read literature in English, not only professional, but also artistic.  
 For example, the book "Three in a boat, not counting the dog", "Three Musketeers".  
 I listen to English-language radio stations, translate popular songs from English to Russian.
-
