@@ -76,7 +76,7 @@ a, a:visited {
     color: white;
     background-color: rgba(0,0,0,.75);
 }
-.main a:hover {
+.main a:hover, .footer a:hover {
     color: rgba(0,0,0,.75);
 }
 .main > div {
@@ -88,20 +88,26 @@ a, a:visited {
 .links {
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 .copyright {
-    text-align: right;
+    text-align: center;
 }
 h2 {
     position: relative;
+    display: inline-block;
     margin-bottom: 10px;
 }
 h2::after {
     content: '';
     bottom: 0;
-    height: 3px;
+    height: 2px;
     background: black;
     width: 20px;
     position: absolute;
-    left: 0;
+    right: -20px
+}
+.link {
+    display: flex;
+    align-items: center;
 }
